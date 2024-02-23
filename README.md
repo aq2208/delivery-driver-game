@@ -1,2 +1,2 @@
 # delivery-driver-game
-A basic Delivery Driver game using Unity and C#
+A classic car-driving, package-delivering game using Unity and C#
